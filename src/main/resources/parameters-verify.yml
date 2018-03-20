@@ -1,0 +1,13 @@
+valid:
+  - classType: Integer
+    beanPrefix: int
+    beanName: intParamValidProcessor
+  - classType: String
+    beanPrefix: string
+    beanName: stringParamValidProcessor
+  - classType: String[]
+    beanPrefix: array
+    beanName: arrayParamValidProcessor
+  - classType: Integer[]
+    beanPrefix: array
+    beanName: arrayParamValidProcessor
